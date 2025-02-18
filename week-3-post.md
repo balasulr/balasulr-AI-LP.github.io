@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Student
+author: Lakshmi Balasubramaniam
 tags: [cscc]
 ---
 
