@@ -3,16 +3,28 @@ navbar_entries:
     url: https://www.cscc.edu/
 
   - title: LinkedIn
-    url: https://www.linkedin.com/
+    url: http://www.linkedin.com/in/lakshmibalasubram/
 
   - title: GitHub
-    url: https://github.com/
+    url: https://github.com/balasulr
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
-    desc: This is an example project, template 1
+  - title: AI and Emerging Technologies
+    url: week-1-post
+    desc: Week 1
 
-  - title: Template 2
-    url: template-2-post
-    desc: This is an example project, template 2
+  - title: Week 2
+    url: Week-2-post
+    desc: Week 2
+
+  - title: Week 3
+    url: Week-3-post
+    desc: Week 3
+
+  - title: Week 4
+    url: Week-4-post
+    desc: Week 4
+
+  - title: Week 5
+    url: Week-5-post
+    desc: Week 5
